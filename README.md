@@ -33,11 +33,21 @@ Here's how to install the project step by step :
 
 6. Please also save a copy of your image key as 'key.jpg' in the same folder as the previous image.
 
+7. and open face.py in project with your ide to change the pictures address :
+ 
+in face.py line 13,14 modify the address with your OS name like this 
+
+     pattern = C:\Users\ehsan\Pictures\images\pattern.jpg
+     image = C:\Users\ehsan\Pictures\images\key.jpg
+
+replace your OS name with ehsan
+
+
 > Please ensure that the face saved as 'pattern' is identical to the
 > face saved as 'key'. Both images should be of the same person and will
 > be used to unlock the program. Note that the 'key' image will be
 > deleted after each successful login.
 
-   7. for first login your password is **admin** after login you can change your password.
+8. for first login your password is **admin** after login you can change your password.
 
 **now you can use personal password manager in windows!**
