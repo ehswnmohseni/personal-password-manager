@@ -1,4 +1,4 @@
-# Personal Password Manager!
+# Personal Password Manager (for Windows)!
 
 This is a Python-based password manager designed to securely store and retrieve your sensitive information 
 -   This is a simple **Python application** designed to securely store and manage your passwords.
