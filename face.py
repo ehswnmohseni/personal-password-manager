@@ -10,8 +10,8 @@ def check_validaty():
 
     try:
 
-        pattern = (r"C:\Users\free\Pictures\images\hitler.jpg")
-        image = (f"C:/Users/free/Pictures/images/key.jpg")
+        pattern = (r"C:\Users{your_pc}\Pictures\images\pattern.jpg")
+        image = (f"C:\Users{your_pc}\Pictures\images\key.jpg")
 
         result = DeepFace.verify(image, pattern)
 
